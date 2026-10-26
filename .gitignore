@@ -1,0 +1,8 @@
+# 'Negative' .gitignore file - so only specifically allowed files are tracked by git
+
+# Excluding everything by default
+*
+
+# Allowing some utility files
+!.gitignore
+!README.md
